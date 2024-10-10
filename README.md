@@ -1,7 +1,6 @@
 Introduction
-Welcome to use Plant Mitochondrial Genome Annotator (PMGA)
-pipeline! Related information can also be found at
-http://www.1kmpg.cn/pmga/.
+
+Welcome to use Plant Mitochondrial Genome Annotator (PMGA) pipeline! Related information can also be found at http://www.1kmpg.cn/pmga/.
 
 Example Usage:
 
