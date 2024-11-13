@@ -1,7 +1,5 @@
 Introduction
 
-Welcome to use Plant Mitochondrial Genome Annotator (PMGA) pipeline! Related information can also be found at http://www.1kmpg.cn/pmga/.
-
-Example Usage:
-
-singularity exec PMGA.sif mgavas mgavas_m -pid <your projectid> -in <input fasta genome file (absolute path)> -db 1 -outdir <outputdir>
+Welcome to use Plant Mitochondrial Genome Annotator (PMGA) pipeline! 
+PMGA web server is available online at http://www.1kmpg.cn/pmga/. 
+The source code is available as a singularity container: https://figshare.com/articles/software/Source_code_of_PMGA/27201798.
